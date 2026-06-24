@@ -7,6 +7,7 @@
 
 
 **How to reach me:**
+
 Email: bmullen6@gatech.edu
 
 LinkedIn: https://www.linkedin.com/in/brianmullen2/

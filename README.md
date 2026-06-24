@@ -1,5 +1,7 @@
 **Brian Mullen**
+
 **MS Quantitative & Computational Finance @ Georgia Tech**
+
 **Senior Associate, Business Analytics**
 
 **How to reach me:**

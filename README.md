@@ -15,6 +15,7 @@ LinkedIn: https://www.linkedin.com/in/brianmullen2/
 
 
 Interested in:
+
 *Systematic Trading
 
 *Quantitative Research
@@ -28,6 +29,7 @@ Interested in:
 
 
 Featured Projects:
+
 *Equity Derivative Pricing Engine
 
 *Fixed Income Portfolio Optimization
@@ -39,6 +41,7 @@ Featured Projects:
 
 
 Technical Skills:
+
 *Python
 
 *SQL
@@ -58,6 +61,7 @@ Technical Skills:
 
 
 **Currently**
+
 I am studying to take the Security Industry Exam (SIE)
 
 Continuing to improving my Python skills

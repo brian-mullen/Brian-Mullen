@@ -1,70 +1,53 @@
-**Brian Mullen**
+# Brian Mullen
 
-**MS Quantitative & Computational Finance @ Georgia Tech**
+### MS Quantitative & Computational Finance | Georgia Tech
 
 **Senior Associate, Business Analytics**
 
+I am a data analytics professional with 4+ years of experience supporting corporate finance functions while pursuing a Master's degree in Quantitative & Computational Finance at Georgia Tech. My interests lie at the intersection of financial markets, quantitative research, derivatives, and systematic investing.
 
+I enjoy building analytical tools and models that combine programming, mathematics, and financial theory to solve real-world problems.
 
-**How to reach me:**
+## Contact
 
-Email: bmullen6@gatech.edu
+📧 Email: [bmullen6@gatech.edu](mailto:bmullen6@gatech.edu)
 
-LinkedIn: https://www.linkedin.com/in/brianmullen2/
+💼 LinkedIn: https://www.linkedin.com/in/brianmullen2/
 
+## Areas of Interest
 
+* Systematic Trading
+* Quantitative Research
+* Fixed Income
+* Derivatives
+* Portfolio Optimization
 
-Interested in:
+## Featured Projects
 
-*Systematic Trading
+* Equity Derivative Pricing Engine
+* Fixed Income Portfolio Optimization
+* Delta Hedging Simulator
+* Quantitative Trading Strategy
 
-*Quantitative Research
+## Technical Skills
 
-*Fixed Income
+**Programming & Data Analysis**
 
-*Derivatives
+* Python
+* SQL
+* Pandas
+* NumPy
+* SciPy
+* Scikit-learn
 
-*Portfolio Optimization
+**Data Visualization**
 
+* Tableau
+* Power BI
 
+## Currently Working On
 
-Featured Projects:
-
-*Equity Derivative Pricing Engine
-
-*Fixed Income Portfolio Optimization
-
-*Delta Hedging Simulator
-
-*Quantitative Trading Strategy
-
-
-
-Technical Skills:
-
-*Python
-
-*SQL
-
-*Pandas
-
-*NumPy
-
-*SciPy
-
-*Scikit-learn
-
-*Tableau
-
-*Power BI
-
-
-
-**Currently**
-
-I am studying to take the Security Industry Exam (SIE)
-
-Continuing to improving my Python skills
-
-Keeping up with the markets and reviewing the performance of my models
-
+* Studying for the Securities Industry Essentials (SIE) Exam
+* Continuing to strengthen my Python skills
+* Following financial markets and evaluating the performance of my quantitative models
+* Expanding my GitHub portfolio with quantitative finance projects

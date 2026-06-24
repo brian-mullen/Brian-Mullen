@@ -4,9 +4,9 @@
 
 **Senior Associate, Business Analytics**
 
-I am a data analytics professional with 4+ years of experience supporting corporate finance functions while pursuing a Master's degree in Quantitative & Computational Finance at Georgia Tech. My interests lie at the intersection of financial markets, quantitative research, derivatives, and systematic investing.
+I am a data analytics professional with 4+ years of experience supporting corporate finance functions while pursuing a Master's degree in Quantitative & Computational Finance at Georgia Tech. My interests lie at the intersection of financial markets, quantitative analytics, and systematic investing.
 
-I enjoy building analytical tools and models that combine programming, mathematics, and financial theory to solve real-world problems.
+I enjoy building analytical tools and models that combine programming, mathematics, and financial theory to apply to the markets and observe performance in real time.
 
 ## Contact
 

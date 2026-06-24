@@ -1,16 +1,36 @@
-## Hi there 👋
+**Brian Mullen**
+**MS Quantitative & Computational Finance @ Georgia Tech**
+**Senior Associate, Business Analytics**
 
-<!--
-**brian-mullen/Brian-Mullen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**How to reach me:**
+Email: bmullen6@gatech.edu
+LinkedIn: https://www.linkedin.com/in/brianmullen2/
 
-Here are some ideas to get you started:
+Interested in:
+*Systematic Trading
+*Quantitative Research
+*Fixed Income
+*Derivatives
+*Portfolio Optimization
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Featured Projects:
+*Equity Derivative Pricing Engine
+*Fixed Income Portfolio Optimization
+*Delta Hedging Simulator
+*Quantitative Trading Strategy
+
+Technical Skills:
+*Python
+*SQL
+*Pandas
+*NumPy
+*SciPy
+*Scikit-learn
+*Tableau
+*Power BI
+
+**Currently**
+I am studying to take the Security Industry Exam (SIE)
+Continuing to improving my Python skills
+Keeping up with the markets and reviewing the performance of my models
+

@@ -5,15 +5,15 @@
 **Senior Associate, Business Analytics**
 
 
-**How to reach me:**
 
+**How to reach me:**
 Email: bmullen6@gatech.edu
 
 LinkedIn: https://www.linkedin.com/in/brianmullen2/
 
 
-Interested in:
 
+Interested in:
 *Systematic Trading
 
 *Quantitative Research
@@ -25,8 +25,8 @@ Interested in:
 *Portfolio Optimization
 
 
-Featured Projects:
 
+Featured Projects:
 *Equity Derivative Pricing Engine
 
 *Fixed Income Portfolio Optimization
@@ -36,8 +36,8 @@ Featured Projects:
 *Quantitative Trading Strategy
 
 
-Technical Skills:
 
+Technical Skills:
 *Python
 
 *SQL
@@ -55,8 +55,8 @@ Technical Skills:
 *Power BI
 
 
-**Currently**
 
+**Currently**
 I am studying to take the Security Industry Exam (SIE)
 
 Continuing to improving my Python skills

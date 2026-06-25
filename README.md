@@ -1,6 +1,7 @@
 # Brian Mullen
 
 ### MS Quantitative & Computational Finance | Georgia Tech
+### BA Economics | Boston College
 
 **Senior Associate, Business Analytics**
 
